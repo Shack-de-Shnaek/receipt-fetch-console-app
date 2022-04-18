@@ -1,0 +1,1 @@
+run 'npm install' to install the node packages and then run 'node index.js' or 'npm run start' to run the script

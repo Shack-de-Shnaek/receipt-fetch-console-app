@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "module": "ES6",
+        "target": "ES2017",
+        "noImplicitAny": true,
+        "moduleResolution": "Node"
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}

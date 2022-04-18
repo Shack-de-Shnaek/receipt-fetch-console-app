@@ -1,0 +1,19 @@
+{
+  "name": "interview-project",
+  "version": "1.0.0",
+  "description": "A simple app that queries the database of a supermarket and fetches receipt data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node index.js"
+  },
+  "author": "Dragan Nikolovski",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "axios": "^0.26.1"
+  },
+  "type": "module"
+}
